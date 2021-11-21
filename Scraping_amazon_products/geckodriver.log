@@ -1,0 +1,79 @@
+1637526135389	geckodriver	INFO	Listening on 127.0.0.1:57207
+1637526138439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bavly\\AppData\\Local\\Temp\\rust_mozprofile54rtBE"
+1637526139019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1637526141501	Marionette	INFO	Listening on port 57215
+1637526141725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637526149706	Marionette	INFO	Stopped listening on port 57215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637527529283	geckodriver	INFO	Listening on 127.0.0.1:58283
+1637527532328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bavly\\AppData\\Local\\Temp\\rust_mozprofileJODucm"
+1637527532930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1637527535577	Marionette	INFO	Listening on port 58292
+1637527536047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637527579425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1637527598214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1637527966662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1637527972926	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637528222862	Marionette	INFO	Stopped listening on port 58292
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bavly\\AppData\\Local\\Temp\\rust_mozprofileOeIi2x"
+1637528183259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1637528185951	Marionette	INFO	Listening on port 58789
+1637528185987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637528221095	Marionette	INFO	Stopped listening on port 58789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637528283554	geckodriver	INFO	Listening on 127.0.0.1:58968
+1637528286595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bavly\\AppData\\Local\\Temp\\rust_mozprofileNE1noV"
+1637528287069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1637528289570	Marionette	INFO	Listening on port 58976
+1637528289809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d1lxz4vuik53pc.cloudfront.net/ii/1637090601506/inner-iframe.min.js, line 1: TypeError: Object(...)() is null
+JavaScript error: https://d1lxz4vuik53pc.cloudfront.net/ii/1637090601506/inner-iframe.min.js, line 1: TypeError: Object(...)() is null
+JavaScript error: about:srcdoc, line 11: TypeError: parent is null
+JavaScript error: about:srcdoc, line 11: TypeError: parent is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637528525383	Marionette	INFO	Stopped listening on port 58976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637528651734	geckodriver	INFO	Listening on 127.0.0.1:59237
+1637528654760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bavly\\AppData\\Local\\Temp\\rust_mozprofile3aeM07"
+1637528655227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1637528657767	Marionette	INFO	Listening on port 59245
+1637528657940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1637528857591	Marionette	INFO	Stopped listening on port 59245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
